@@ -43,7 +43,7 @@ export function Navbar() {
               href="#"
               className="text-xl font-bold text-foreground hover:text-primary transition-colors"
             >
-              Ali<span className="text-primary">.</span>
+              Ali<span className="text-primary">Elgoual</span>
             </a>
 
             {/* Desktop Navigation */}
